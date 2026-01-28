@@ -1,123 +1,93 @@
-    / ! ⭐Time Stamps⭐
-// #1   JavaScript tutorial for beginners 🌐
-document.getElementById('htt').textContent('fuck');
-document.getElementById('mk').textContent('fuckers');
 
-// #2   Variables 📦
+ ⭐️ Contents ⭐️
 
+Section 1: Getting Started
+(00:00:00) Introduction
+(00:01:05) What is JavaScript?
+(00:02:13) Setting up the Development Environment 
+(00:07:08) Follow on social media
 
+Section 2: JavaScript Variables
+(00:07:29) Variables
+(00:12:23) Constants
+(00:14:14) Primitive Types
+(00:19:13) Dynamic Typing
+(00:20:56) Objects
+(00:24:21) Arrays
+(00:27:07) Functions
+(00:29:31) Types of Functions
+(00:31:13) Summary of Variables
 
-    
-// #3   Arithmetic operators ➕
+Section 3: JavaScript Operators
+(00:32:14) Intro to Operators
+(00:32:28) Arithmetic Operators
+(00:35:26) Assignment Operator
+(00:36:07) Comparison Operators
+(00:38:05) Equality Operators
+(00:41:22) The Ternary Operator
+(00:43:30) Logical Operators
+(00:51:02) Logical Operators with Non-booleans
+(00:54:20) Operator Precedence
+(00:55:12) Summary of Operator
 
+Section 4: Control Flow
+(00:56:14) If-Else Statements
+(01:00:46) Switch-Case Statements
+(01:05:15) For Loops
+(01:10:41) While Loops
+(01:13:48) Do-while Loops
+(01:15:27) Infinite Loops
+(01:17:16) For-in Loops
+(01:19:26) For-of Loops
+(01:21:21) Break and Continue
+(01:29:44) Exercise: Max of two numbers
+(01:30:48) Exercise: FizzBuzz
+(01:33:19) Exercise: Even and Odd Numbers
+(01:34:46) Summary of Control Flow
 
+Section 5: JavaScript Objects
+(01:35:38) Object Literals
+(01:37:09) Factory Functions
+(01:40:16) Constructor Functions
+(01:43:53) Objects are Dynamic
+(01:46:22) The Constructor Property
+(01:48:08) Functions are Objects
+(01:51:14) Value vs Reference types
+(01:53:37) Enumerating Properties of an Object
+(01:57:26) Cloning an Object
+(01:59:43) Garbage Collection
+(02:00:11) The Built in Math Function
+(02:03:02) String Methods
+(02:08:35) Template Literals
+(02:10:41) The Date Object
+(02:12:55) Summary of Objects
 
-// #4    Accept user input 💬
+Section 6: JavaScript Arrays
+(02:13:46) Introduction to Arrays
+(02:14:22) Adding Elements
+(02:17:17) Finding Elements (Primitives)
+(02:20:56) Finding Elements (Reference Types)
+(02:23:23) Arrow Functions
+(02:25:59) Removing Elements
+(02:28:49) Emptying an Array
+(02:31:08) Combining and Slicing Arrays
+(02:32:58) Spread Operator
+(02:34:31) Iterating an Array
+(02:36:27) Joining Arrays
+(02:41:02) Sorting Arrays
+(02:45:49) Testing the Elements of an Array
+(02:49:55) Filtering an Array
+(02:53:02) Mapping an Array
+(02:57:26) Reducing an Array
 
-
-
-// #5    Type conversion 💱
-
-
-
-// #6    Constants 🚫
-
-
-
-// #7   ⭐ Counter program 🔢
-
-
-
-// #8    Math & object 🧮
-
-
-
-// #9   Random number generator ⁉
-
-
-
-// #10  If statements 🤔
-// #11  Checked property ✅
-// #12  Ternary operator ❓
-// #13  Switches 💡
-// #14  String methods 🧵
-// #15  String slicing ✂️
-// #16  Method chaining ⛓
-// #17  Logical operators ❗
-// #18  Strict equality 🟰
-// #19  While loops 🔁
-// #20  For loops 🔂
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//? __________________________________________________________________________________________
-
-
-/*
-#21 ⭐ Number guessing game ↕
-#22 02:49:31 Functions 📞
-#23 03:01:44 Variable scope 🏠
-#24 03:07:10 ⭐ Temperature conversion program 🌡️
-#25 03:23:28 Arrays 🗃
-#26 03:31:33 Spread operator 📖
-#27 03:36:27 Rest parameters 🗄
-#28 03:44:32 ⭐ Dice Roller program 🎲
-#29 03:58:44 ⭐ Random password generator 🔑
-#30 04:10:49 Callbacks 🤙
-#31 04:18:05 forEach() ➿
-#32 04:26:07 map() 🗺
-#33 04:33:08 filter() 🚰
-#34 04:39:37 reduce() ♻
-#35 04:45:07 Function expressions 🐣
-#36 04:52:39 Arrow functions 🎯
-#37 05:00:40 JavaScript Objects🧍
-#38 05:07:40 What is THIS 👈
-#39 05:12:07 Constructors 🛠
-#40 05:17:38 Classes 🏭
-#41 05:23:47 STATIC keyword ⚡
-#42 05:31:50 Inheritance 🐇
-#43 05:38:53 SUPER keyword 🦸‍♂️
-#44 05:48:14 Getters & Setters 📐
-#45 06:01:28 Destructuring 💥
-#46 06:10:08 Nested objects 📫
-#47 06:19:21 Arrays of objects 🍎
-#48 06:29:21 Sorting 🗃
-#49 06:36:03 Shuffle an array 🔀
-#50 06:40:08 Dates 📅
-#51 06:48:09 Closures 🔒
-#52 06:59:07 setTimeout() ⏰
-#53 07:05:20 ⭐ Digital Clock program 🕐
-#54 07:16:07 ⭐ Stopwatch program ⏱
-#55 07:34:12 ES6 Modules 🚢
-#56 07:40:17 Asynchronous code 💤
-#57 07:45:04 Error handling ⚠
-#58 07:54:06 ⭐ Calculator program 🖩
-#59 08:09:26 What is the DOM? 🌳
-#60 08:14:26 Element selectors 📑
-#61 08:32:04 DOM navigation 🧭
-#62 08:47:31 Add & change HTML 🛠️
-#63 09:03:03 Mouse events 🖱
-#64 09:13:33 Key events ⌨
-#65 09:24:49 Hide/show HTML 🖼
-#66 09:30:00 NodeLists 📃
-#67 09:43:21 classList 🧾
-#68 09:59:20 ⭐ Rock Paper Scissors 👊
-#69 10:18:14 ⭐ Image Slider 🖼️
-#70 10:34:03 Callback Hell? 🔥
-#71 10:39:50 Promises 🤞
-#72 10:52:24 Async/Await ⏳
-#73 10:57:00 JSON files 📄
-#74 11:07:07 Fetch data from an API ↩️
-! ⭐ Weather App project ☀️ 
- */
+Section 7: JavaScript Functions
+(03:01:04) Function Declarations vs Expressions 
+(03:03:38) Hoisting
+(03:05:49) Arguments
+(03:09:12) The Rest Operator
+(03:13:31) Default Parameters
+(03:17:30) Getters and Setters
+(03:21:42) Try and Catch
+(03:24:41) Local vs Global Scope
+(03:27:46) Let vs Var
+(03:30:54) The ‘this’ keyword
